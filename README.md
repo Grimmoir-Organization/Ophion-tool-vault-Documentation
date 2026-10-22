@@ -26,25 +26,6 @@ A curated vault of tools, technical tricks, and learning resources. Organised in
 - **Add a discovery.** Submit a tool, trick, or resource for review, then manage your contributions.
 
 <details>
-<summary><b>A fragment of the story</b></summary>
-
-<br>
-
-Long before this vault had a name, there was a story — one whose name has been lost.
-
-Only a fragment remains.
-
-**Ophion — the Blind Seer.**
-
-> “I have seen everything, yet I have never seen myself.”
-
-The vault began as a collection of discoveries. Small. Scattered. Half-blind.
-
-There is always more to find.
-
-*The Blind Seer still watches.*
-
-</details>
 
 <details>
 <summary><b>Under the surface · Tech stack</b></summary>
